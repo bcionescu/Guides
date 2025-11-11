@@ -8,6 +8,7 @@ Over on my [YouTube channel](https://youtube.com/@bcionescu) I create video guid
 ## Utils
 - [This Is Your Sign to Finally Learn Grep](utils/this-is-your-sign-to-finally-learn-grep.md)
 - [Terminal Brainrot](utils/terminal-brainrot.md)
+- [It's time to learn RegEx](utils/its-time-to-learn-regex.md)
 
 ## Backups
 
