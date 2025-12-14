@@ -12,6 +12,9 @@ Over on my [YouTube channel](https://youtube.com/@bcionescu) I create video guid
 - [Terminal Brainrot](utils/terminal-brainrot.md)
 - [It's time to learn RegEx](utils/its-time-to-learn-regex.md)
 
+## Containers
+- [Get Any Linux Distro or CPU Architecture (like a Chad) with Docker](containers/get-any-linux-distro-or-cpu-architecture-like-a-chad-with-docker.md)
+
 ## Backups
 
 - [Borg Automation](backups/borg-automation.md)
